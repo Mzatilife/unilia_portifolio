@@ -1,0 +1,17 @@
+#navbar{
+	text-align: center;
+	font-size: 20px;
+	font-family: century gothic;
+	color: white;
+	background-color: black;
+	height: 40px;
+	padding-top: 6px;
+	border-style: groove;
+
+
+}
+a{color: white; font-weight: bold; text-decoration: none;}
+a:hover{color: deepskyblue; }
+a:active{
+	background-color: deepskyblue; color: white; font-size: 150%;
+}
